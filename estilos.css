@@ -1,0 +1,58 @@
+body{
+    background-color: darkgoldenrod;
+    color: white;
+}
+h1{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+button {
+    background-color: #f9ec3f; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 26px;
+  }
+  .cabeçalho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+.corpo{
+    background-color:white;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.td{
+    background-color: rgb(139, 73, 45);
+    color: white;
+    text-decoration: none;
+        
+}
+
+.rodape{
+    background-color: gray;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.tam{
+    font-size: 30px;
+}
+.table2{
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
